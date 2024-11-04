@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
-Shawntrice Yip
+title: Welcome-to-my-blog
 ---
 
